@@ -1,0 +1,43 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="mooc.vandy.java4android.m3_shapes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:6:5-20:19
+12        android:allowBackup="true"
+12-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\ishan\.gradle\caches\transforms-2\files-2.1\365af7dfdf8cc8862cb4af6a3d16c12c\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:icon="@mipmap/ic_launcher"
+14-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:8:9-43
+15        android:label="@string/app_name"
+15-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:9:9-41
+16        android:supportsRtl="true"
+16-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:10:9-35
+17        android:theme="@style/AppTheme" >
+17-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:11:9-40
+18        <activity android:name="mooc.vandy.java4android.shapes.ui.MainActivity" >
+18-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:13:9-19:20
+18-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:13:19-80
+19            <intent-filter>
+19-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:14:13-18:29
+20                <action android:name="android.intent.action.MAIN" />
+20-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:15:17-69
+20-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:15:25-66
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:17:17-77
+22-->C:\Users\ishan\AndroidStudioProjects\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\m3-shapes\app\src\main\AndroidManifest.xml:17:27-74
+23            </intent-filter>
+24        </activity>
+25    </application>
+26
+27</manifest>
