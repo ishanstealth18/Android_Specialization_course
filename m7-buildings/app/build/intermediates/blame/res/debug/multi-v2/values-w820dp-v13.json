@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ishan\\AndroidStudioProjects\\1wD2ZjUeTheA9mY1Hg4Xqg_9aad785462734d698237c400811e76c6_m7-buildings-assignment\\m7-buildings\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ishan\\AndroidStudioProjects\\1wD2ZjUeTheA9mY1Hg4Xqg_9aad785462734d698237c400811e76c6_m7-buildings-assignment\\m7-buildings\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "57",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

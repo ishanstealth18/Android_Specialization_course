@@ -1,0 +1,7 @@
+#Sat Feb 20 16:46:11 EST 2021
+base.0=C\:\\Users\\ishan\\AndroidStudioProjects\\1wD2ZjUeTheA9mY1Hg4Xqg_9aad785462734d698237c400811e76c6_m7-buildings-assignment\\m7-buildings\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\ishan\\AndroidStudioProjects\\1wD2ZjUeTheA9mY1Hg4Xqg_9aad785462734d698237c400811e76c6_m7-buildings-assignment\\m7-buildings\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
